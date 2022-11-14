@@ -85,7 +85,7 @@
 }
 
 .logo_place_footer {
-  display: flexbox;
+  display: flex;
 }
 
 .description {
